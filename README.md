@@ -1,7 +1,7 @@
-Hi, I am Omovigho
-I am interested in Programming and Software Development
-I am currently learning front-end development
-I'm looking to collaborate with other devs and gain work and learning experience from them
+Hi, I am Omovigho,
+I am interested in Programming and Software Development.
+I am currently learning front-end development.
+I'm looking to collaborate with other devs and gain work and learning experience from them.
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
